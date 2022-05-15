@@ -10,5 +10,4 @@ maintainers-logins = ["simonjwright"]
 kind="system"
 [external.origin."case(distribution)"]
 "debian|ubuntu" = ["libblas-dev"]
-# For msys2, lapack provides both blas and lapack
-"msys2" = ["mingw-w64-x86_64-lapack"]
+"msys2" = ["mingw-w64-x86_64-openblas"]
