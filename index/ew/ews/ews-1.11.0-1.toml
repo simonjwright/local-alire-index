@@ -8,9 +8,9 @@ The project is hosted at https://github.com/simonjwright/ews.
 
 """
 name = "ews"
-version = "1.11.0"
+version = "1.11.0-1"
 authors = ["Simon Wright <simon@pushface.org>"]
-licenses = "GPL-3.0-only WITH GCC-exception-3.1"
+licenses = "GPL-3.0-or-later WITH GCC-exception-3.1"
 maintainers = ["Simon Wright <simon@pushface.org>"]
 maintainers-logins = ["simonjwright"]
 project-files = ["ews.gpr"]
@@ -34,6 +34,6 @@ PATH.append="${CRATE_ROOT}/bin"
 disabled = true
 
 [origin]
-commit = "12c3dc3754ab724b371b46e6e00f64b5bbfe31f7"
+commit = "32357c83932daf37c08af598251d94da9d2d9d2d"
 url = "git+https://github.com/simonjwright/ews.git"
 
