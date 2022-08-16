@@ -34,6 +34,6 @@ PATH.append="${CRATE_ROOT}/bin"
 disabled = true
 
 [origin]
-commit = "32357c83932daf37c08af598251d94da9d2d9d2d"
+commit = "baf10fcb7febe6d38dbabef631cc0491df8afd38"
 url = "git+https://github.com/simonjwright/ews.git"
 
