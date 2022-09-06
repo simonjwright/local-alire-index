@@ -10,6 +10,6 @@ maintainers-logins = ["simonjwright"]
 hint = "Please install Tcl from source or sytem packages"
 kind = "system"
 [external.origin."case(distribution)"]
-"debian|ubuntu" = ["tcl-dev"]
+"debian|ubuntu" = ["tcl8.6-dev"]
 "msys2" = ["mingw-w64-x86_64-tcl"]
 "macos" = ["tcl-tk"]
