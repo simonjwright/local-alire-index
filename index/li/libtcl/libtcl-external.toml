@@ -12,4 +12,4 @@ kind = "system"
 [external.origin."case(distribution)"]
 "debian|ubuntu" = ["tcl8.6-dev"]
 "msys2" = ["mingw-w64-x86_64-tcl"]
-"macos" = ["tcl-tk"]
+"homebrew" = ["tcl-tk"]
